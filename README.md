@@ -1,5 +1,1 @@
-# Hello-World
-
-My first repository on GitHub.
-
-I love :cycling: :pizza:, and learning:.
+My student labs completed as part of the IBM Data Science Professional Certificate course on Coursera.
